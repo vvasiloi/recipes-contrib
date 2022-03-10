@@ -1,7 +1,9 @@
 # @see https://github.com/Sylius/SyliusResourceBundle/blob/master/docs/index.md
 sylius_resource:
     # Override default settings
+    # See avilable options in `addSettingsSection` method in https://github.com/Sylius/SyliusResourceBundle/blob/master/src/Bundle/DependencyInjection/Configuration.php
     #settings:
+
 
     # Configure your resources
     resources:
